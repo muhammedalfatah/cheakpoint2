@@ -1,0 +1,29 @@
+#main_body 
+{
+    background-color: #2f375b;
+}
+
+li {
+    float: left;
+    font-size: 20px;
+  }
+  
+  a {
+    display: block;
+    padding: 10px;
+color: aliceblue;  }
+
+  li {
+    display: inline;
+  }
+  #navbar {
+
+        float: right;
+        width: 600px;
+      
+  }
+
+  .img_logo {
+        width: 250px;
+        padding-left: 50px;
+  }
